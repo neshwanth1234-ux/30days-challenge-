@@ -1,1 +1,22 @@
+Test Case 2 – Water consumption exceeds target
+-----------------------------------------------------------------------------------------------------------------------
+Zone 1 - Academic Block
+Daily target: 2000
+Consumption: 1000 2500 3000 1500 2200 1800 1000
 
+Zone 2 - Hostel
+Daily target: 3000
+Consumption: 2000 2500 2800 2900 2000 2500 2800
+
+Zone 3 - Library
+Daily target: 1000
+Consumption: 500 600 700 800 900 950 1000
+
+Zone 4 - Cafeteria
+Daily target: 2500
+Consumption: 1500 2000 2600 3000 2700 1800 2000
+
+Zone 5 - Sports Complex
+Daily target: 1500
+Consumption: 800 900 1000 1100 1200 1300 1400
+--------------------------------------------------------------------------------------------------------------------------------
